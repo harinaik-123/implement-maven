@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.balaji</groupId>
   <artifactId>01-maven-myapp</artifactId>
-  <packaging>jar</packaging>
+  <packaging>jar</packagings>
   <version>1.0-SNAPSHOT</version>
   <name>01-maven-myapp</name>
   <url>http://maven.apache.org</url>
